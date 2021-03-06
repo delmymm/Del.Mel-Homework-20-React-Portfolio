@@ -167,3 +167,8 @@
   100% { background-position: 0% 50%; 
     }
   }
+
+  .fa {
+    padding: 10px;
+    color: black;
+  }

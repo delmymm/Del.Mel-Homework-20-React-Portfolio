@@ -22,10 +22,16 @@ class Homepage extends Component {
                                 <h3>🖥️</h3>
                                 HTML/CSS 〰 JAVASCRIPT 〰 MYSQL 〰 NODE JS 〰 REACT 〰 MONGODB 〰 EXPRESS
                             </p>
+                            <div class="icon-bar">
+                                <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/"><i class="fa fa-linkedin"></i></a>
+                                <a href="https://www.github.com/"><i class="fa fa-github"></i></a>
+                            </div>
                             <div className="content-links">
                                 <p>
                                     <i className="fa fa-phone-square" aria-hidden="true" />435-513-1099
-                                    <br/>
+                                    <br />
                                     <i className="fa fa-envelope" aria-hidden="true" /> delmymm93@gmail.com
                                 </p>
                             </div>
