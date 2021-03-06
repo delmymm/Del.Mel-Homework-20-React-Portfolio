@@ -18,7 +18,7 @@
 
 ## Repo
 * [Repo](https://github.com/delmymm/Del.Mel-Homework-20-React-Portfolio)
-* [Live Site](https://delmymelendezport.netlify.app/)
+* [Live Site](https://delmymelendez.netlify.app/)
 
 ## Contributors
 * Contributor: [Delmy Melendez](https://github.com/delmymm)
