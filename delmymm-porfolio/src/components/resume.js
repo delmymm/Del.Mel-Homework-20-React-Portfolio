@@ -17,9 +17,9 @@ class Resume extends Component {
                         delmymm93@gmail.com
                         <h5>Github</h5>
                         https://github.com/delmymm
-                        <h5>Linkedin</h5>
+                        <h5>LinkedIn</h5>
                         https://www.linkedin.com/in/delmy-melendez-8961721b4/
-                        <h5>Downloadable Resume <a href="" rel="noopener noreferrer" target="_blank" alt="resume">
+                        <h5>Resume <a href="/img/Delmy Melendez RESUME.pdf" rel="noopener noreferrer" target="_blank" alt="resume">
                                 <i class="fa fa-file-pdf-o fa-lg" aria-hidden="true"></i>
                             </a></h5>
                         </div>
