@@ -15,7 +15,7 @@ class Homepage extends Component {
                             className="selfie"
                             style={{ width: '650px', height:'350px', borderRadius:'20px'}}
                         /> */}
-                        <div className="banner-text" style={{ width: '75%', margin: 'auto', marginTop: '2em', textAlign: 'center' }}>
+                        <div className="banner-text" style={{ width: '85%', margin: 'auto', marginTop: '2rem', textAlign: 'center' }}>
                             <h1 style={{ paddingTop: '4rem' }}>Hello, I'm Delmy!</h1>
                             {/* <h2>New to the world of development.</h2> */}
                             <p>
@@ -32,7 +32,7 @@ class Homepage extends Component {
                                 <p>
                                     <i className="fa fa-phone-square" aria-hidden="true" />435-513-1099
                                     <br />
-                                    <i className="fa fa-envelope" aria-hidden="true" /> delmymm93@gmail.com
+                                    <i className="fa fa-envelope" aria-hidden="true" style={{ paddingBottom: '3rem'}}/> delmymm93@gmail.com
                                 </p>
                             </div>
                         </div>
