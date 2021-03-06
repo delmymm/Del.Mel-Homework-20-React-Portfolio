@@ -8,7 +8,7 @@ class Resume extends Component {
                 <Grid className="content-grid">
                     <Cell col={12}>
                         <div className='add-content'>
-                            <h3 style={{ padding: '0%', margin: '0px', fontFamily: 'Merriweather', paddingTop: '1rem' }}>Delmy Melendez</h3>
+                            <h3 style={{ padding: '0%', margin: '0px', fontFamily: 'Merriweather', paddingTop: '8px' }}>Delmy Melendez</h3>
                             <h5>Address</h5>
                         508 N 250 W, Heber City, Utah 84032
                         <h5>Phone Number</h5>
