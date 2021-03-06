@@ -14,7 +14,7 @@ class AboutMe extends Component {
                                 alt=""
                                 style={{ height: '250px', borderRadius: '20%' }}
                             />
-                            <p style={{ width: '75%', margin: 'auto'}}>
+                            <p style={{ width: '75%', margin: 'auto', paddingTop: '2rem'}}>
                                 Hi! My name is Delmy Melendez. I am 27 years old and
                                 orginally from
                                 Miami, FL. I moved to Utah when I was five and was raised in Park City until
